@@ -4,6 +4,8 @@
 借助moviepy这个库
 
 
+
+
 ## 用法
 首先安装moviepy
 ```
@@ -25,7 +27,11 @@ pip install moviepy
 代表我想要去掉0:22-1:14, 1:25-1:30 和2:13-2:25 这三个时间片段, 保留剩下的。
 
 
+
 最后运行脚本
+
+（如果是Windows，双击run.bat即可）
+
 ```
 python cut_video.py
 ```
