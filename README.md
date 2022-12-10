@@ -45,3 +45,5 @@ cut_video.ipynb
 ## 视频教程
 
 请见视频教程
+
+https://www.bilibili.com/video/BV1xG4y137WJ/
