@@ -1,2 +1,7 @@
 *.mp4
 *.mp3
+__pycache__
+build
+*.egg-info
+*.egg
+dist

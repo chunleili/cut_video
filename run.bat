@@ -1,1 +1,1 @@
-python cut_video.py
+python .\cut_video\cut_video.py
